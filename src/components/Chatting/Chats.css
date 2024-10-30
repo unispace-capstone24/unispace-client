@@ -1,0 +1,6 @@
+.chatting__chats {
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+    padding: 16px;
+  }

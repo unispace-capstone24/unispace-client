@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.app .side {
+  width: 20%;
+  height: 100vh;
+  background-color: #f7f7f5;
+}
+
+.app .main {
+  width: 80%;
+  height: 100vh;
+}
