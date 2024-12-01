@@ -1,0 +1,19 @@
+.chat {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  .my-chat {
+    padding-left: 10%;
+  }
+  
+  .other-chat {
+    padding-right: 10%;
+  }
+  
+  .my-chat .chat-profile-image {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  }

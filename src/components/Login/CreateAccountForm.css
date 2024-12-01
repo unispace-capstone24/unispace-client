@@ -1,0 +1,47 @@
+.create-account-form {
+    width: 750px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .back-to-login-button {
+    font-size: 40px;
+    margin: 5px;
+  }
+  .back-to-login-button:hover {
+    cursor: pointer;
+  }
+  
+  .back-to-login-label {
+    font-size: 20px;
+    vertical-align: sub;
+  }
+  
+  .create-account-form h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .create-account-form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .create-account-form label {
+    font-weight: bold;
+  }
+  
+  .create-account-form .create-account-form-button {
+    width: 100%;
+    font-size: 20px;
+    margin-bottom: 16px;
+  }
+  
+  .create-account-form .error-message {
+    color: red;
+    text-align: center;
+    margin-bottom: 16px;
+  }
